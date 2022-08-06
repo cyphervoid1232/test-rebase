@@ -8,7 +8,6 @@ import { Component, OnInit } from '@angular/core';
 export class AppComponent implements OnInit {
   title = 'test-rebase';
   constructor(){
-    console.log("test create")
   }
 
   ngOnInit(): void {
