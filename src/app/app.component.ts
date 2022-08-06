@@ -9,10 +9,9 @@ export class AppComponent implements OnInit {
   title = 'test-rebase-1';
 
   constructor(){
-
   }
 
   ngOnInit(): void {
-      
+      console.log("test")
   }
 }
